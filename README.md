@@ -1,2 +1,3 @@
 # hello-world
-Blah blah, it my first repository
+hah blah, it my first repository
+hi
